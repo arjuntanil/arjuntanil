@@ -2,12 +2,23 @@
   <img src="https://github.com/arjuntanil/arjuntanil/blob/main/IMAGE.jpg" alt="Arjun T Anil - AI Developer | Full Stack Engineer | MCA Student" width="100%">
 </p>
 
-# Hi 👋, I'm ARJUN T ANIL  
+<h1 align="center">Hi 👋, I'm <span style="color:#58a6ff;">ARJUN T ANIL</span></h1>
 
-🤖 **AI & Machine Learning Enthusiast • Full-Stack Developer • MCA Student**  
-🌍 Building smart, scalable, and user-centric solutions with AI-driven technologies  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" height="3">
+</p>
 
----
+<p align="center">
+  <b>
+    <span style="font-size:20px;">🤖 AI & Machine Learning Enthusiast</span><br>
+    <span style="font-size:20px;">💻 Full-Stack Developer</span><br>
+    <span style="font-size:20px;">🎓 MCA Student</span>
+  </b>
+</p>
+
+<p align="center">
+  🌍 <i>Building smart, scalable, and user-centric solutions with AI-driven technologies</i>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3">
