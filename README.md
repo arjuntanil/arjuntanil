@@ -41,10 +41,8 @@
 
 ## 📌 Featured Projects  
 
-🔗 **EduplatForm-LMS** – A complete **Learning Management System (LMS)** built using **Laravel + Inertia + React**.  
-✨ Features: user authentication, course listings, enrollments, comments, events, faculty directory, and an admin panel for managing courses, categories, and users.  
-
 🔗 **NextStep AI** – AI-Powered Career Navigation Platform (FastAPI, Streamlit, spaCy)  
+🔗 **EduplatForm-LMS** – A complete Learning Management System (Laravel + Inertia + React)
 🔗 **AI-Powered Information Retrieval System** – RAG-based PDF and document question-answering using LangChain & FAISS  
 🔗 **AutoSphere** – Vehicle Registration & Management Platform (Django, PostgreSQL, Razorpay API)  
 🔗 **BugXpert** – AI Bug Prediction & Code Quality Analyzer (Flask, scikit-learn, ML models)  
