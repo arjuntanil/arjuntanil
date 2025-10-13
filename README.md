@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arjun T Anil  
+# Hi 👋, I'm ARJUN T ANIL
 
 🤖 **AI & Machine Learning Enthusiast • Full-Stack Developer • MCA Student**  
 🌍 Building smart, scalable, and user-centric solutions with AI-driven technologies  
