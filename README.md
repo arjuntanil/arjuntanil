@@ -34,9 +34,6 @@ Django · Flask · FastAPI · React.js · Node.js · Express.js · Bootstrap · 
 ### 🧠 Artificial Intelligence & Machine Learning  
 TensorFlow · PyTorch · scikit-learn · LangChain · FAISS · spaCy · Sentence-BERT · Hugging Face · Pandas · NumPy  
 
-### ⚙️ DevOps & Cloud  
-AWS · Docker · Linux · Git · GitHub · CI/CD Pipelines  
-
 ### 🗄️ Databases  
 PostgreSQL · MySQL · MongoDB · SQLite3  
 
