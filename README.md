@@ -24,10 +24,20 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Developer+%7C+Full+Stack+Engineer+%7C+Innovator;Exploring+the+intersection+of+AI+and+Web+Development;Crafting+Impactful+Digital+Experiences" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3">
+</p>
+
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjuntanil)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/arjuntanil)  
-[![Email](https://img.shields.io/badge/Email-arjuntanil%40hotmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:arjuntanil@hotmail.com)  
+<p align="center">
+  <a href="https://linkedin.com/in/arjuntanil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/arjuntanil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:arjuntanil@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3">
@@ -35,8 +45,11 @@
 
 ## 📌 Featured Projects  
 
-🔗 **NextStep AI** – AI-Powered Career Navigation Platform (FastAPI, Streamlit, spaCy, BERT)  
-🔗 **AI-Powered Information Retrieval System** – Advanced RAG-based document QA using LangChain & FAISS  
+🔗 **EduplatForm-LMS** – A complete **Learning Management System (LMS)** built using **Laravel + Inertia + React**.  
+✨ Features: user authentication, course listings, enrollments, comments, events, faculty directory, and an admin panel for managing courses, categories, and users.  
+
+🔗 **NextStep AI** – AI-Powered Career Navigation Platform (FastAPI, Streamlit, spaCy)  
+🔗 **AI-Powered Information Retrieval System** – RAG-based PDF and document question-answering using LangChain & FAISS  
 🔗 **AutoSphere** – Vehicle Registration & Management Platform (Django, PostgreSQL, Razorpay API)  
 🔗 **BugXpert** – AI Bug Prediction & Code Quality Analyzer (Flask, scikit-learn, ML models)  
 🔗 **WaitPredict** – Smart Traffic Signal Wait-Time Prediction System (Flask, ML, Regression)  
@@ -49,16 +62,22 @@
 ## 🛠️ Skills & Tools  
 
 ### 💻 Programming Languages  
-Python · Java · C++ · JavaScript · HTML · CSS  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&theme=dark" />
+</p>
 
 ### 🧩 Frameworks & Libraries  
-Django · Flask · FastAPI · React.js · Node.js · Express.js · Bootstrap · Tailwind CSS  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nodejs,bootstrap,tailwind,laravel&theme=dark" />
+</p>
 
 ### 🧠 Artificial Intelligence & Machine Learning  
 TensorFlow · PyTorch · scikit-learn · LangChain · FAISS · spaCy · Sentence-BERT · Hugging Face · Pandas · NumPy  
 
 ### 🗄️ Databases  
-PostgreSQL · MySQL · MongoDB · SQLite3  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3">
@@ -80,9 +99,14 @@ PostgreSQL · MySQL · MongoDB · SQLite3
 
 ## 📊 GitHub Stats  
 
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjuntanil&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuntanil&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjuntanil&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjuntanil&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuntanil&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjuntanil&layout=compact&theme=tokyonight" height="140" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3">
@@ -106,6 +130,9 @@ PostgreSQL · MySQL · MongoDB · SQLite3
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3">
 </p>
 
-🙌 **Thanks for Visiting!**  
-I’m always open to collaborating on **AI, Machine Learning, and Full-Stack projects**.  
-⭐ Feel free to fork my repositories, explore my work, and connect with me!
+<h3 align="center">🙌 Thanks for Visiting!</h3>
+
+<p align="center">
+  <i>I’m always open to collaborating on <b>AI, Machine Learning, and Full-Stack projects</b>.</i><br>
+  ⭐ Feel free to fork my repositories, explore my work, and connect with me!
+</p>
