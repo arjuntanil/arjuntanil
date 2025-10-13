@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/arjuntanil/arjuntanil/blob/main/IMAGE.png" alt="Arjun T Anil - AI Developer | Full Stack Engineer | MCA Student" width="100%">
+  <img src="https://github.com/arjuntanil/arjuntanil/blob/main/IMAGE.jpg" alt="Arjun T Anil - AI Developer | Full Stack Engineer | MCA Student" width="100%">
 </p>
 
 # Hi 👋, I'm ARJUN T ANIL  
